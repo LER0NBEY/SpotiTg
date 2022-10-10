@@ -1,4 +1,4 @@
-# Developer: https://t.me/ReWoxi
+# Developer: https://t.me/XLERON
 
 from email import message
 import spotipy
